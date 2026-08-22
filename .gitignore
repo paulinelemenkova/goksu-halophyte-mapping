@@ -1,0 +1,25 @@
+# Large / derived rasters — keep these out of Git (archive on Zenodo instead)
+*.tif
+*.tiff
+*.img
+*.vrt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.idea/
+.vscode/

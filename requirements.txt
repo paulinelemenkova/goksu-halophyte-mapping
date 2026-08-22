@@ -1,0 +1,8 @@
+# Tested with Python 3.12.3 (versions used in the paper)
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+rasterio==1.5.0
+matplotlib==3.10.8
+pygmt==0.18.0
+# Earth Engine steps run in the browser code editor and need no local install.
