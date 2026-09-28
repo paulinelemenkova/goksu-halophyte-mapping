@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22059005.svg)](https://doi.org/10.5281/zenodo.22059005)
 
 Scripts accompanying *Distribution of* Salicornietea fruticosae *and* Juncetea maritimi *communities in the
-Göksu Delta (Türkiye) mapped from Landsat time series* (Lemenkova & Zülfikar, submitted to *Hacquetia*).
+Göksu Delta (Türkiye) mapped from Landsat time series* (Lemenkova, submitted to *Hacquetia*).
 
 Every script runs from open-access inputs. No fieldwork data and no restricted
 datasets are required.

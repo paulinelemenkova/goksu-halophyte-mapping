@@ -6,10 +6,6 @@ authors:
     given-names: Polina
     affiliation: "Istanbul Technical University"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: Zülfikar
-    given-names: Abdullah Can
-    affiliation: "Istanbul Technical University"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
 version: 1.0.0
 date-released: "2026-08-22"
 license: MIT
@@ -21,7 +17,5 @@ preferred-citation:
   authors:
     - family-names: Lemenkova
       given-names: Polina
-    - family-names: Zülfikar
-      given-names: Abdullah Can
   journal: "Hacquetia"
   year: 2026
